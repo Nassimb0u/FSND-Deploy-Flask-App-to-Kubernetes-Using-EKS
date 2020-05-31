@@ -35,4 +35,3 @@ phases:
       - ls
 artifacts:
   files: build.json
-
